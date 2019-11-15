@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=dgKSqz3it50
+https://www.youtube.com/watch?v=X8OysJsdYxA
+
+Tendrá:
+Home (oculto en el logo)}
+    Carousel (Diseño y Programación de Páginas Web)
+        Diseño de Páginas Web: Diseño exclusivo y personalizado de páginas y portales web. Estudiamos las necesidades de su empresa y creamos experiencias únicas a su medida. Confíe en los mejores profesionales para el diseño de su página web.
+        Programación Web: Programación a medida de las especificaciones del cliente. Desarrollamos de principio a fin todas las funcionalidades que su página o portal web necesite. Comprobamos su funcionamiento incluso en los casos más inverosímiles.
+        Programas de Gestión: Gestione toda la información de su empresa de forma sencilla e intuitiva. Un programa de gestión le permite tener acceso a su negocio las 24 horas del día, desde cualquier ordenador, móvil o tablet con acceso a internet.
+        Posicionamiento y buscador SEO: Coloque su página web en las primeras posiciones gracias a la optimización de contenidos para buscadores y el posicionamiento SEO. Mejores resultados en buscadores equivalen a más visibilidad, más clientes y más ventas.
+Sobre Mi:
+    Bla Bla
+Portafolio
+    Cards (uno por pag)
+        La de Alex:
+        Coro de la Catedral
+        Regina Coeli
+Testimonio
+    Carousel:
+        Alex
+        Rubén
+Precios
+    Cards (uno por pag)
+        Web sencilla
+        Web Profesional
+        App
+        Programa
+
+Contacto
+    Form
+Blog(aun no)
